@@ -1,0 +1,21 @@
+{
+  "name": "midterm_ho2_pokemon_back_end_pulon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON/issues"
+  },
+  "homepage": "https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON#readme"
+}
