@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON/issues"
   },
-  "homepage": "https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON#readme"
+  "homepage": "https://github.com/riciapulon/MIDTERM_HO2_POKEMON_BACK_END_PULON#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
